@@ -1,6 +1,7 @@
 package com.marcel.op_item.items;
 
 import com.marcel.op_item.OP_Item;
+import com.marcel.op_item.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -19,6 +20,9 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.OPSHINE.get());
                         pOutput.accept(ModItems.RAW_OPSHINE.get());
+
+                        pOutput.accept(ModBlocks.OP_Block.get());
+                        pOutput.accept(ModBlocks.RAW_OP_BLOCK.get());
                     })
                     .build());
 

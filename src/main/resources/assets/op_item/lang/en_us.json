@@ -2,5 +2,8 @@
   "item.op_item.opshine" : "OPShine",
   "item.op_item.raw_opshine" : "Raw OPShine",
 
+  "block.op_item.op_block": "The OP BLOCK",
+  "block.op_item.raw_op_block": "The RAW OP BLOCK",
+
   "creativetab.op_tab" : "OP Tab"
 }

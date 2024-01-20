@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "op_item:opshine"
+    }
+  },
+  "result": {
+    "item": "op_item:op_block"
+  }
+}

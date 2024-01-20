@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "op_item:block/raw_op_block"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 2,
+  "group": "opshine",
+  "ingredient": {
+    "item": "op_item:raw_opshine"
+  },
+  "result": "op_item:opshine"
+}
